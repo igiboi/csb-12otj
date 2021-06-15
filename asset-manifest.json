@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://igiboi.github.io/csb-12otj/static/js/main.d2d94976.chunk.js",
+    "main.js.map": "https://igiboi.github.io/csb-12otj/static/js/main.d2d94976.chunk.js.map",
+    "runtime-main.js": "https://igiboi.github.io/csb-12otj/static/js/runtime-main.f01d0e2f.js",
+    "runtime-main.js.map": "https://igiboi.github.io/csb-12otj/static/js/runtime-main.f01d0e2f.js.map",
+    "index.html": "https://igiboi.github.io/csb-12otj/index.html",
+    "precache-manifest.c3fbe040ff834d48d469b6a64a47eae5.js": "https://igiboi.github.io/csb-12otj/precache-manifest.c3fbe040ff834d48d469b6a64a47eae5.js",
+    "service-worker.js": "https://igiboi.github.io/csb-12otj/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01d0e2f.js",
+    "static/js/main.d2d94976.chunk.js"
+  ]
+}
